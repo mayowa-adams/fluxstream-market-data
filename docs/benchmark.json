@@ -1,0 +1,6 @@
+{
+  "scope": "in-memory SQLite core, single process, no network",
+  "events": 10000,
+  "eventsPerSecond": 25712,
+  "p95ms": 0.055644000000000915
+}
